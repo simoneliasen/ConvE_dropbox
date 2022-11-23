@@ -1,0 +1,5 @@
+*.swp
+data/
+src/
+saved_models/
+**/__pycache__/
